@@ -184,7 +184,7 @@ for loan in loans:
 
 # @TODO: Print the `inexpensive_loans` list
 # YOUR CODE HERE!
-print(inexpensive_loans)
+print("The list of inexpensive loans:"inexpensive_loans)
 
 """Part 5: Save the results.
 
